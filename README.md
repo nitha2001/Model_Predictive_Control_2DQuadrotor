@@ -25,10 +25,11 @@ This project simulates a 2D quadrotor system using MPC, enforcing:
 
 ## Results
 
-  
+**Quadrotor simulated with MPC**
 
 https://github.com/user-attachments/assets/195f026a-de63-465d-ae3f-372759d40d14
 
+**Quadrotor simulated with LQR**
 
 
 https://github.com/user-attachments/assets/1a854d89-9d37-4c1f-8f0d-a125912ae384
